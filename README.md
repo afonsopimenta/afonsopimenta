@@ -2,7 +2,6 @@
 
 # Hello world! 👋 I'm Afonso!
 
-## About Me
 I'm a portuguese student at [University of Minho](https://www.uminho.pt) currently doing a bachelor's degree in Software Engineering
 
 I'm 18 years old and I love programming and playing with Lego
@@ -19,7 +18,7 @@ Html 5
 Css 3
 
 Bootstrap
-
+  
 ---
 
 ## Conctact me
