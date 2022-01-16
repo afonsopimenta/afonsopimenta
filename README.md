@@ -1,16 +1,33 @@
-### Hi there 👋
+<div  style="text-align: center;">
 
-<!--
-**AfonsoPimenta/AfonsoPimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello world! 👋 I'm Afonso!
 
-Here are some ideas to get you started:
+## About Me
+I'm a portuguese student at [University of Minho](https://www.uminho.pt) currently doing a bachelor's degree in Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm 18 years old and I love programming and playing with Lego
+
+---
+
+## My skills
+C#
+
+Haskell
+
+Html 5
+
+Css 3
+
+Bootstrap
+
+---
+
+## Conctact me
+
+<a href="https://www.linkedin.com/in/afonso-pimenta-929726224/"><img src="img/linkedin.png" style="width: 50px;"></a>
+<span style="display: inline-block; width: 50px;"></span>
+<a href="https://www.instagram.com/afonsopimenta13/"><img src="img/instagram.png" style="width: 50px"></a>
+<span style="display: inline-block; width: 50px;"></span>
+<a href="mailto:afonsopimenta@gmail.com"><img src="img/gmail.png" style="width: 50px;"></a>
+
+<div>
