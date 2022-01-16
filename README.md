@@ -21,7 +21,7 @@ Bootstrap
   
 ---
 
-## Conctact me
+## Contact me
 
 <a href="https://www.linkedin.com/in/afonso-pimenta-929726224/"><img src="img/linkedin.png" style="width: 50px; margin-right: 50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/afonsopimenta13/"><img src="img/instagram.png" style="width:50px; margin-right: 50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
