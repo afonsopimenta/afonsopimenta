@@ -9,6 +9,7 @@ I'm 18 years old and I love programming and playing with Lego
 ---
 
 ## My skills
+
 C#
 
 Haskell
