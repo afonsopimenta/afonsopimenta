@@ -1,4 +1,4 @@
-<div  style="text-align: center;">
+<div align="center">
 
 # Hello world! 👋 I'm Afonso!
 
@@ -24,10 +24,8 @@ Bootstrap
 
 ## Conctact me
 
-<a href="https://www.linkedin.com/in/afonso-pimenta-929726224/"><img src="img/linkedin.png" style="width: 50px;"></a>
-<span style="display: inline-block; width: 50px;"></span>
-<a href="https://www.instagram.com/afonsopimenta13/"><img src="img/instagram.png" style="width: 50px"></a>
-<span style="display: inline-block; width: 50px;"></span>
+<a href="https://www.linkedin.com/in/afonso-pimenta-929726224/"><img src="img/linkedin.png" style="width: 50px; margin-right: 50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/afonsopimenta13/"><img src="img/instagram.png" style="width:50px; margin-right: 50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:afonsopimenta@gmail.com"><img src="img/gmail.png" style="width: 50px;"></a>
 
 <div>
