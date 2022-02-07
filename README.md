@@ -14,12 +14,14 @@ C#
 
 Haskell
 
-Html 5
+Html 5 / Css 3
 
-Css 3
+Javascript
 
-Bootstrap
-  
+Node.js / Express
+
+MongoDB / Mongoose
+
 ---
 
 ## Contact me
